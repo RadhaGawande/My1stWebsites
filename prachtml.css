@@ -2,13 +2,10 @@
 body{
   margin: 0;
   font-family: 'Lato', sans-serif;
-  
 }
 .container{
   width: 1200px;
-  margin: auto;
-  /* background-color: rgb(225, 233, 232); */
-  
+  margin: auto; 
 }
 .row{
   display: flex;
